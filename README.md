@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm B Kiran</h1>
+<h1 align="center">Hola guys 👋, I'm B Kiran</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ki2345&label=Profile%20views&color=0e75b6&style=flat" alt="ki2345" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development and Problem Solving**
+- 🔭 I’m currently working on **Web Development and Problem Solving.**
+
+- 🌱 I’m currently learning **backend development and DSA.**
+
+- 👯 I’m looking to collaborate on **Front-end Web Development projects.**
+
+- 💬 Ask me about **HTML, CSS, Java**
+
+- 📫 How to reach me **reddy2002kiran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
